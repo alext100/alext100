@@ -5,7 +5,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 -   :office: &nbsp;I'm currently not working
 -   :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
--   :speech_balloon: &nbsp;I like to talk about **Vue** and **Learning methods**
+-   :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
 -   :mailbox: &nbsp;You can mail me **[email]**
 -   :computer: &nbsp;Connect with me on **[LinkedIn]**
 
@@ -137,7 +137,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 <a href="https://github.com/alext100/Equipo-3-Front">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Equipo-3-Front&theme=vue" />
 </a>
-
 <a href="https://github.com/alext100/Centro-Picasso-FrontEnd">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Centro-Picasso-FrontEnd&theme=vue" />
 </a>
