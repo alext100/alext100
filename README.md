@@ -6,7 +6,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 - :office: &nbsp;I'm currently not working
 - :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
 - :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
-- :mailbox: &nbsp;You can mail me **[email]**
+- :mailbox: &nbsp;You can **[email]** me
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
