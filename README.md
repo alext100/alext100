@@ -160,6 +160,8 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 <!-- END_SECTION:ascii_graph -->
 <!-- prettier-ignore-end -->
 
+[![activity graph](https://activity-graph.herokuapp.com/graph?username=guilyx&custom_title=Erwin's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- links -->
 
 [email]: mailto:alexandrt100@gmail.com "Aleksandr Turchenko email"
