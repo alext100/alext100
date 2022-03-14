@@ -3,11 +3,11 @@
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
 
--   :office: &nbsp;I'm currently not working
--   :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
--   :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
--   :mailbox: &nbsp;You can mail me **[email]**
--   :computer: &nbsp;Connect with me on **[LinkedIn]**
+- :office: &nbsp;I'm currently not working
+- :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
+- :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
+- :mailbox: &nbsp;You can mail me **[email]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 <br>
 
@@ -118,6 +118,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 </table>
 
 ## GitHub Stats
+
 <!-- prettier-ignore-start -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -154,13 +155,11 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 <br/>
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 <!-- links -->
 
