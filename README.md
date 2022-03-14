@@ -147,15 +147,12 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 <br />
 
+<h2 align="left">Coding Activity</h2>
 ## This week I spent my time on
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alext100)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2021-05-04. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
 
 <!-- prettier-ignore-start -->
 <!-- START_SECTION:ascii_graph -->
