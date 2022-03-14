@@ -19,65 +19,77 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
   <tr>
       <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-vue-js.svg" width="48" height="48" alt="Vue" />
+        <img src="./img/icons8-vue-js.svg" width="48" height="47" alt="Vue" />
       </a>
       <br>Vue
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-typescript.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/icons8-typescript.svg" width="48" height="47" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-javascript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/icons8-javascript.svg" width="48" height="47" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech" >
-        <img src="./img/icons8-react.svg" width="48" height="48" alt="React" />
+        <img src="./img/icons8-react.svg" width="48" height="47" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-redux.svg" width="48" height="48" alt="Redux" />
+        <img src="./img/icons8-redux.svg" width="48" height="47" alt="Redux" />
       </a>
       <br>Redux
+    </td>
+    <td align="center" width="96">
+      <a href="#alext100-tech">
+        <img src="./img/next-js.svg" width="48" height="47" alt="Next" />
+      </a>
+      <br>NextJS
     </td>
 
   </tr>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-git.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/icons8-git.svg" width="48" height="47" alt="Sass" />
       </a>
       <br>Git
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-eslint.svg" width="48" height="48" alt="ESLint" />
+        <img src="./img/icons8-eslint.svg" width="48" height="47" alt="ESLint" />
       </a>
       <br>ESLint
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-google-firebase-console.svg" width="48" height="48" alt="Firebase" />
+        <img src="./img/icons8-google-firebase-console.svg" width="48" height="47" alt="Firebase" />
       </a>
       <br>Firebase
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-jest-can-collect-code-coverage-information-from-entire-projects-48.png" width="48" height="48" alt="Jest" />
+        <img src="./img/icons8-jest-can-collect-code-coverage-information-from-entire-projects-48.png" width="48" height="47" alt="Jest" />
       </a>
       <br>Jest
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-figma.svg" width="48" height="48" alt="Figma" />
+        <img src="./img/icons8-figma.svg" width="48" height="47" alt="Figma" />
       </a>
       <br>Figma
+    </td>
+    <td align="center" width="96">
+      <a href="#alext100-tech">
+        <img src="./img/jwtio-json-web-token.svg" width="48" height="47" alt="jwtio-json-web-token" />
+      </a>
+      <br>JWT
     </td>
   <tr>
 
@@ -112,7 +124,12 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
       </a>
       <br>Sass
     </td>
-
+    <td align="center" width="96">
+      <a href="#alext100-tech">
+        <img src="./img/bem-sm.png" width="48" height="47" alt="BEM" />
+      </a>
+      <br>BEM
+    </td>
   <tr>
   </tr>
 </table>
@@ -158,60 +175,60 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540%20Thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
-🌆 Daytime    472 commits    ███████░░░░░░░░░░░░░░░░░░   31.32% 
-🌃 Evening    590 commits    █████████░░░░░░░░░░░░░░░░   39.15% 
+🌞 Morning    143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.49%
+🌆 Daytime    472 commits    ███████░░░░░░░░░░░░░░░░░░   31.32%
+🌃 Evening    590 commits    █████████░░░░░░░░░░░░░░░░   39.15%
 🌙 Night      302 commits    █████░░░░░░░░░░░░░░░░░░░░   20.04%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       272 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
-Tuesday      250 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
-Wednesday    210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
-Thursday     207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
-Friday       126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
-Saturday     177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Monday       272 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05%
+Tuesday      250 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59%
+Wednesday    210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93%
+Thursday     207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74%
+Friday       126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+Saturday     177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75%
 Sunday       265 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.58%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Europe/Madrid
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               38 repos            ████████████████████░░░░░   80.85% 
-TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+JavaScript               38 repos            ████████████████████░░░░░   80.85%
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26%
 SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 ```
 
+Last Updated on 14/03/2022 19:09:38 UTC
 
-
- Last Updated on 14/03/2022 19:09:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
