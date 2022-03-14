@@ -84,31 +84,31 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
   </tr>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/logo-sonarQube.svg" width="48" height="48" alt="SonarQube" />
+        <img src="./img/logo-sonarQube.svg" width="48" height="47" alt="SonarQube" />
       </a>
       <br>SonarQube
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-mongodb.svg" width="48" height="48" alt="MongoDb" />
+        <img src="./img/icons8-mongodb.svg" width="48" height="47" alt="MongoDb" />
       </a>
       <br>MongoDb
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-nodejs.svg" width="48" height="48" alt="Node.js" />
+        <img src="./img/icons8-nodejs.svg" width="48" height="47" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+        <img src="./img/icons8-bootstrap.svg" width="48" height="47" alt="Bootstrap" />
       </a>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-sass.svg" width="48" height="48" alt="Sass" />
+        <img src="./img/icons8-sass.svg" width="48" height="47" alt="Sass" />
       </a>
       <br>Sass
     </td>
