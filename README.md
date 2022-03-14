@@ -227,11 +227,6 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/alext100/alext100/master/charts/bar_graph.png) 
-
-
  Last Updated on 14/03/2022 19:58:31 UTC
 <!--END_SECTION:waka-->
 
