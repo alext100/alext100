@@ -158,7 +158,60 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-540%20Thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    143 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.49% 
+🌆 Daytime    472 commits    ███████░░░░░░░░░░░░░░░░░░   31.32% 
+🌃 Evening    590 commits    █████████░░░░░░░░░░░░░░░░   39.15% 
+🌙 Night      302 commits    █████░░░░░░░░░░░░░░░░░░░░   20.04%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       272 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05% 
+Tuesday      250 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.59% 
+Wednesday    210 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.93% 
+Thursday     207 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.74% 
+Friday       126 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.36% 
+Saturday     177 commits    ███░░░░░░░░░░░░░░░░░░░░░░   11.75% 
+Sunday       265 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Europe/Madrid
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               38 repos            ████████████████████░░░░░   80.85% 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.26% 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
+
+```
+
+
+
+ Last Updated on 14/03/2022 19:09:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
