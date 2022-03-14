@@ -3,10 +3,6 @@
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
 
-<a href="#alext100-title">
-  <img src="https://raw.githubusercontent.com/alext100/github-stats-transparent/output/generated/overview.svg" alt="alext100" align="right" />
-</a>
-
 -   :office: &nbsp;I'm currently not working
 -   :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
 -   :speech_balloon: &nbsp;I like to talk about **Travel** and **Languages**
@@ -121,6 +117,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
   </tr>
 </table>
 
+## GitHub Stats
 <!-- prettier-ignore-start -->
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
