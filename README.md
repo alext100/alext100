@@ -73,7 +73,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
     </td>
     <td align="center" width="96">
       <a href="#alext100-tech">
-        <img src="./img/icons8-jest-can-collect-code-coverage-information-from-entire-projects-48.svg" width="48" height="48" alt="Jest" />
+        <img src="./img/icons8-jest-can-collect-code-coverage-information-from-entire-projects-48.png" width="48" height="48" alt="Jest" />
       </a>
       <br>Jest
     </td>
