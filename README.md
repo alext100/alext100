@@ -168,8 +168,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 ## This week I spent my time on
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alext100)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
