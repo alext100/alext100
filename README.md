@@ -166,10 +166,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 <h2 align="left">Coding Activity</h2>
 
-## This week I spent my time on
-
-<br/>
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
