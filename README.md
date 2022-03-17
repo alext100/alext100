@@ -169,8 +169,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2042%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-541%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -228,7 +226,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 22:30:36 UTC
+ Last Updated on 17/03/2022 23:25:40 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
