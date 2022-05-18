@@ -137,29 +137,29 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 ## GitHub Stats
 
 <!-- prettier-ignore-start -->
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!-- prettier-ignore-end -->
 
 ## Top Repositories
 
 <a href="https://github.com/alext100/Bairro-Alto-Front-End">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Front-End&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Front-End&theme=vue" />
 </a>
 <a href="https://github.com/alext100/Bairro-Alto-Back-End">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Back-End&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Back-End&theme=vue" />
 </a>
 <a href="https://github.com/alext100/MWC-22-front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=MWC-22-front&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=MWC-22-front&theme=vue" />
 </a>
 <a href="https://github.com/alext100/Equipo-3-Front">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Equipo-3-Front&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Equipo-3-Front&theme=vue" />
 </a>
 <a href="https://github.com/alext100/Centro-Picasso-FrontEnd">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Centro-Picasso-FrontEnd&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Centro-Picasso-FrontEnd&theme=vue" />
 </a>
 <a href="https://github.com/alext100/Week08-challenge2-tuitah">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alext100&repo=Week08-challenge2-tuitah&theme=vue" />
+  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Week08-challenge2-tuitah&theme=vue" />
 </a>
 
 <br />
