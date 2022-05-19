@@ -15,37 +15,37 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 > Tools, languages, and other things that I like to work with.
 
-<div align="center" style="margin-bottom: 25px">
+<div align="center">
 <table>
   <tr>
       <td align="center" width="96">
-      <a href="#alext100-tech">
-        <img src="./img/icons8-vue-js.svg" width="48" height="47" alt="Vue" />
-      </a>
+        <a href="#alext100-tech">
+          <img src="./img/icons8-vue-js.svg" width="48" height="47" alt="Vue" />
+        </a>
       <br>Vue
-    </td>
-    <td align="center" width="96">
-      <a href="#alext100-tech">
-        <img src="./img/icons8-typescript.svg" width="48" height="47" alt="TypeScript" />
-      </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#alext100-tech">
+          <img src="./img/icons8-typescript.svg" width="48" height="47" alt="TypeScript" />
+        </a>
       <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#alext100-tech">
-        <img src="./img/icons8-javascript.svg" width="48" height="47" alt="JavaScript" />
-      </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#alext100-tech">
+          <img src="./img/icons8-javascript.svg" width="48" height="47" alt="JavaScript" />
+        </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#alext100-tech" >
-        <img src="./img/icons8-react.svg" width="48" height="47" alt="React" />
-      </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#alext100-tech" >
+          <img src="./img/icons8-react.svg" width="48" height="47" alt="React" />
+        </a>
       <br>React
-    </td>
-    <td align="center" width="96">
-      <a href="#alext100-tech">
-        <img src="./img/icons8-redux.svg" width="48" height="47" alt="Redux" />
-      </a>
+      </td>
+      <td align="center" width="96">
+        <a href="#alext100-tech">
+          <img src="./img/icons8-redux.svg" width="48" height="47" alt="Redux" />
+        </a>
       <br>Redux
     </td>
     <td align="center" width="96">
@@ -54,8 +54,8 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
       </a>
       <br>NextJS
     </td>
-
   </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#alext100-tech">
         <img src="./img/icons8-git.svg" width="48" height="47" alt="Sass" />
@@ -92,9 +92,8 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
       </a>
       <br>JWT
     </td>
-  <tr>
-
   </tr>
+   <tr>
     <td align="center" width="96">
       <a href="#alext100-tech">
         <img src="./img/logo-sonarQube.svg" width="48" height="47" alt="SonarQube" />
@@ -131,7 +130,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
       </a>
       <br>BEM
     </td>
-  <tr>
   </tr>
 </table>
 </div>
