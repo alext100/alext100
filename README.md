@@ -15,6 +15,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 
 > Tools, languages, and other things that I like to work with.
 
+<div align="center" style="margin-bottom: 25px">
 <table>
   <tr>
       <td align="center" width="96">
@@ -133,6 +134,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
   <tr>
   </tr>
 </table>
+</div>
 
 ## GitHub Stats
 
