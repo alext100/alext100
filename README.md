@@ -235,3 +235,5 @@ SCSS                     1 repo              ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜�
 
 [email]: mailto:alexandrt100@gmail.com "Aleksandr Turchenko email"
 [linkedin]: https://www.linkedin.com/in/alexandr-turchenko/ "Aleksandr Turchenko LinkedIn"
+
+<img align="center" width="100%" src="https://raw.githubusercontent.com/alext100/github-contributions-snake/snake/github-contribution-grid-snake.svg" />
