@@ -1,5 +1,5 @@
 <h1 align="left" id="alext100-title"> Hello there! 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
 
