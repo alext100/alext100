@@ -3,7 +3,7 @@
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
 
-- :office: &nbsp;I'm currently not working
+- :office: &nbsp;I'm currently working
 - :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
 - :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
 - :mailbox: &nbsp;You can **[email]** me
