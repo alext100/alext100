@@ -3,12 +3,11 @@
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
 
-- :office: &nbsp;I'm currently working
-- :seedling: &nbsp;I’m currently learning **Vue3, Firebase**
-- :speech_balloon: &nbsp;I like to talk about **Vue** and **How to learn**
+- :office: &nbsp;I'm currently working in **[Treend](https://www.linkedin.com/company/treendmarketplace/)**
+- :seedling: &nbsp;I’m currently learning **Next.js, Tailwind**
+- :speech_balloon: &nbsp;I like to talk about **Life** and **How to learn languages**
 - :mailbox: &nbsp;You can **[email]** me
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
-
 <br>
 
 <h2 align="left" id="alext100-tech">Favorite Tech</h2>
