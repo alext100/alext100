@@ -1,10 +1,10 @@
 <h1 align="left" id="alext100-title"> Hello there! 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> 
 Nice to see you. I'm Aleksandr Turchenko</h1>
-<h3 align="left">I am a junior Fullstack developer currently living in Barcelona, Spain</h3>
+<h3 align="left">I am a Fullstack developer currently living in Barcelona, Spain</h3>
 
 - :office: &nbsp;I'm currently working in **[Treend](https://www.linkedin.com/company/treendmarketplace/)**
-- :seedling: &nbsp;I’m currently learning **Next.js, Tailwind**
+- :seedling: &nbsp;I’m currently learning **Next.js, React Native**
 - :speech_balloon: &nbsp;I like to talk about **Life** and **How to learn languages**
 - :mailbox: &nbsp;You can **[email]** me
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
