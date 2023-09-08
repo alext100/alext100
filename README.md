@@ -3,7 +3,7 @@
 Nice to see you. I'm Aleksandr Turchenko</h1>
 <h3 align="left">I am a Fullstack developer currently living in Barcelona, Spain</h3>
 
-- :office: &nbsp;I'm currently working in **[Kuorum](https://www.linkedin.com/company/kuorumorg/)**
+- <img src="https://github.com/alext100/alext100/assets/83639312/e97f68dc-360e-4d4d-a5de-2d791a8c5f80" width="16" height="16" cursor="none" alt="icon" />  &nbsp;&nbsp;I'm currently working in **[Kuorum](https://www.linkedin.com/company/kuorumorg/)**
 - :seedling: &nbsp;I’m currently learning **Next.js, React Native**
 - :speech_balloon: &nbsp;I like to talk about **Life** and **How to learn languages**
 - :mailbox: &nbsp;You can **[email]** me
