@@ -140,26 +140,6 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 | ------------- | ------------- |
 <!-- prettier-ignore-end -->
 
-## Top Repositories
-
-<a href="https://github.com/alext100/Bairro-Alto-Front-End">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Front-End&theme=vue" />
-</a>
-<a href="https://github.com/alext100/Bairro-Alto-Back-End">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Bairro-Alto-Back-End&theme=vue" />
-</a>
-<a href="https://github.com/alext100/MWC-22-front">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=MWC-22-front&theme=vue" />
-</a>
-<a href="https://github.com/alext100/Equipo-3-Front">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Equipo-3-Front&theme=vue" />
-</a>
-<a href="https://github.com/alext100/Centro-Picasso-FrontEnd">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Centro-Picasso-FrontEnd&theme=vue" />
-</a>
-<a href="https://github.com/alext100/Week08-challenge2-tuitah">
-  <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Week08-challenge2-tuitah&theme=vue" />
-</a>
 <br />
 <h2 align="left">Coding Activity</h2>
 
