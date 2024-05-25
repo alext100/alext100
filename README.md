@@ -160,9 +160,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 <a href="https://github.com/alext100/Week08-challenge2-tuitah">
   <img align="center" src="https://github-readme-stats-alext100.vercel.app/api/pin/?username=alext100&repo=Week08-challenge2-tuitah&theme=vue" />
 </a>
-
 <br />
-
 <h2 align="left">Coding Activity</h2>
 
 [![activity graph](https://fast-savannah-95653.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
