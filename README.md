@@ -136,7 +136,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 ## GitHub Stats
 
 <!-- prettier-ignore-start -->
-| <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
+| <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api?username=alext100&include_all_commits=true&count_private=true&show_icons=true&theme=vue&hide_border=true&hide=stars,issues&show=prs_merged" alt="Aleksandr's github stats" /></a> | <a href="https://github.com/alext100/github-readme-stats"><img align="center" src="https://github-readme-stats-alext100.vercel.app/api/top-langs/?username=alext100&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
 <!-- prettier-ignore-end -->
 
