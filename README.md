@@ -163,7 +163,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 <br />
 <h2 align="left">Coding Activity</h2>
 
-[![activity graph](https://fast-savannah-95653.herokuapp.com/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-300%20hrs%202%20mins-blue)
