@@ -179,11 +179,10 @@ Sunday                   618 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fraku-front-admin        7 mins              ██████████████████████░░░   89.01 % 
-fraku-front-voting       0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -203,7 +202,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2024 22:06:51 UTC
+ Last Updated on 02/08/2024 04:06:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
