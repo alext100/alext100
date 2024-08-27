@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C998%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C002%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,17 +179,17 @@ Sunday                   618 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               27 hrs 13 mins      █████████████████████████   98.77 % 
+TypeScript               27 hrs              █████████████████████████   98.77 % 
 JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        17 hrs 45 mins      ████████████████░░░░░░░░░   64.42 % 
-fraku-front-voting       9 hrs 44 mins       █████████░░░░░░░░░░░░░░░░   35.34 % 
-fraku-front-ui           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
-fraku-front-ws           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+fraku-front-admin        19 hrs 48 mins      ██████████████████░░░░░░░   72.41 % 
+fraku-front-voting       7 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+fraku-front-ws           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+fraku-front-ui           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +209,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 26/08/2024 22:06:14 UTC
+ Last Updated on 27/08/2024 04:07:35 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
