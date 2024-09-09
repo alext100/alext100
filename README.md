@@ -146,6 +146,8 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C062%20hrs%2042%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-3.8%20million%20lines%20of%20code-blue)
@@ -177,15 +179,15 @@ Sunday                   606 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               28 hrs 23 mins      █████████████████████████   98.19 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               26 hrs 28 mins      █████████████████████████   98.46 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🐱‍💻 Projects: 
-fraku-front-voting       22 hrs 25 mins      ███████████████████░░░░░░   77.56 % 
-fraku-front-admin        6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.44 % 
+fraku-front-voting       20 hrs 23 mins      ███████████████████░░░░░░   75.86 % 
+fraku-front-admin        6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.14 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -205,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 22:05:13 UTC
+ Last Updated on 09/09/2024 04:06:39 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
