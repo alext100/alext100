@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C274%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C276%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,15 +179,15 @@ Sunday                   575 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               30 hrs 14 mins      █████████████████████████   99.42 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+TypeScript               32 hrs 16 mins      █████████████████████████   99.46 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 Image (svg)              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        28 hrs 57 mins      ████████████████████████░   95.21 % 
-fraku-front-voting       1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+fraku-front-admin        30 hrs 59 mins      ████████████████████████░   95.51 % 
+fraku-front-voting       1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 22:05:50 UTC
+ Last Updated on 27/10/2024 04:07:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
