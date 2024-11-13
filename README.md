@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C313%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C311%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,15 +179,15 @@ Sunday                   575 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               17 hrs 8 mins       ████████████████████████░   95.39 % 
-CSV                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               19 hrs              ████████████████████████░   94.68 % 
+CSV                      33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        13 hrs 8 mins       ██████████████████░░░░░░░   73.16 % 
-fraku-front-voting       4 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   26.84 % 
+fraku-front-admin        14 hrs 18 mins      ██████████████████░░░░░░░   71.30 % 
+fraku-front-voting       5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 22:06:39 UTC
+ Last Updated on 13/11/2024 04:07:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
