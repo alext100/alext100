@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C340%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C332%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,14 +179,14 @@ Sunday                   605 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               25 hrs 14 mins      █████████████████████████   98.36 % 
-JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+TypeScript               27 hrs 46 mins      █████████████████████████   98.31 % 
+JSON                     22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-fraku-front-voting       15 hrs 43 mins      ███████████████░░░░░░░░░░   61.31 % 
-fraku-front-admin        9 hrs 55 mins       ██████████░░░░░░░░░░░░░░░   38.69 % 
+fraku-front-voting       14 hrs 29 mins      █████████████░░░░░░░░░░░░   51.28 % 
+fraku-front-admin        13 hrs 45 mins      ████████████░░░░░░░░░░░░░   48.72 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +206,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 18/11/2024 22:08:03 UTC
+ Last Updated on 19/11/2024 04:08:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
