@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C351%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C347%20hrs%205%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,15 +179,15 @@ Sunday                   575 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               32 hrs 28 mins      ████████████████████████░   97.78 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-CSV                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               30 hrs 44 mins      ████████████████████████░   96.70 % 
+JSON                     27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+CSV                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+CSS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 Git                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        17 hrs 54 mins      █████████████░░░░░░░░░░░░   53.90 % 
-fraku-front-voting       15 hrs 18 mins      ████████████░░░░░░░░░░░░░   46.10 % 
+fraku-front-admin        18 hrs 17 mins      ██████████████░░░░░░░░░░░   57.53 % 
+fraku-front-voting       13 hrs 30 mins      ███████████░░░░░░░░░░░░░░   42.47 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -207,7 +207,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 20/11/2024 22:07:51 UTC
+ Last Updated on 21/11/2024 04:08:07 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
