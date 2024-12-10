@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C406%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C402%20hrs%2029%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,14 +179,14 @@ Sunday                   589 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               16 hrs 7 mins       █████████████████████████   99.07 % 
-SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+TypeScript               17 hrs 34 mins      █████████████████████████   99.09 % 
+SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🐱‍💻 Projects: 
-fraku-front-voting       10 hrs 14 mins      ████████████████░░░░░░░░░   62.96 % 
-fraku-front-admin        6 hrs 1 min         █████████░░░░░░░░░░░░░░░░   37.04 % 
+fraku-front-admin        10 hrs 3 mins       ██████████████░░░░░░░░░░░   56.72 % 
+fraku-front-voting       7 hrs 40 mins       ███████████░░░░░░░░░░░░░░   43.28 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -206,7 +206,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 09/12/2024 22:06:56 UTC
+ Last Updated on 10/12/2024 04:07:11 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
