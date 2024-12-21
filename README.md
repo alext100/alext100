@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C448%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C443%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,16 +179,16 @@ Sunday                   575 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               24 hrs 22 mins      ████████████████████████░   97.63 % 
-CSV                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               27 hrs              ████████████████████████░   97.88 % 
+CSV                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        14 hrs 40 mins      ███████████████░░░░░░░░░░   58.77 % 
-fraku-front-voting       10 hrs 13 mins      ██████████░░░░░░░░░░░░░░░   40.97 % 
-fraku-front-ui           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+fraku-front-admin        16 hrs 27 mins      ███████████████░░░░░░░░░░   59.64 % 
+fraku-front-voting       11 hrs 4 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+fraku-front-ui           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -208,7 +208,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 20/12/2024 22:06:14 UTC
+ Last Updated on 21/12/2024 04:07:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
