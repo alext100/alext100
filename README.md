@@ -146,7 +146,7 @@ Nice to see you. I'm Aleksandr Turchenko</h1>
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alext100&custom_title=My%20last%2031%20day%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C867%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C871%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -179,17 +179,17 @@ Sunday                   643 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Madrid
 
 💬 Programming Languages: 
-TypeScript               22 hrs 41 mins      ████████████████████████░   94.98 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+TypeScript               19 hrs 40 mins      ███████████████████████░░   93.93 % 
+JSON                     50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+HTML                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
+CSV                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-fraku-front-admin        19 hrs 26 mins      ████████████████████░░░░░   81.34 % 
-fraku-front-voting       4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
-fraku-front-ui           14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
-fraku-front-ws           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+fraku-front-admin        16 hrs 24 mins      ████████████████████░░░░░   78.35 % 
+fraku-front-voting       4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+fraku-front-ui           16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+fraku-front-ws           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -209,7 +209,7 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/alext100/alext100/master/assets/bar_graph.png)
 
 
- Last Updated on 30/04/2025 22:08:07 UTC
+ Last Updated on 01/05/2025 04:09:59 UTC
 <!--END_SECTION:waka-->
 
 <!-- links -->
